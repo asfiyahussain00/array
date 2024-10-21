@@ -56,6 +56,37 @@
 // num.unshift(1);
 // console.log(num)
 
+//Remove item
+//Splice
+// let cars = [ 'audi' , 'BMW', 'Bigo' , 'Civic' , 'prado'];
+// cars.splice(2,1);
+// console.log(cars);
+
+
+
+// let student = ['asfiya' , 'web development' , 18 , 'fizza' ,1256 ];
+// student.splice(3 , 1);
+// console.log(student);
+
+
+// let fruit =['apple' , 'mango' , 'orange' , 'kiwi' ,'watermelon'];
+// let remove = fruit.splice(3,1);
+// console.log(remove);
+// console.log(fruit);
+
+ 
+//Add item
+
+//  let fruit =['apple' , 'mango' , 'orange' , 'kiwi' ,'watermelon'];
+//  fruit.splice(2,1 , 'stawberry');
+//  console.log(fruit);
+
+//slice updating array
+//  let animals = ['fly' , 'dog' , 'cat' ,'fox' , 'wolf'];
+//  let pet = animals.slice(1,3);
+//  console.log(pet);
+
+
 
 
 
